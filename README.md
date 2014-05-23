@@ -16,6 +16,8 @@ Now open up a terminal window and CD into the packages folder you opened and run
 
 `git clone https://github.com/iGARET/sublimetext-defaultplus-theme "Theme - DefaultPlus"`
 
+  Very important to put that last parameter to name it...
+
 ### Manual Install
 
 * Download the files using the GitHub .zip download option
